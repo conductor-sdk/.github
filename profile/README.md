@@ -1,5 +1,6 @@
 Welcome to Conductor SDKs Home.
 
-Variouls language SDKs for Netflix Conductor are available here.
+This repository is the home of the 3rd party contributed SDKs for [Netflix Conductor](https://github.com/Netflix/conductor)
 
-To find out more about Conductor visit: https://github.com/Netflix/conductor
+Netflix Conductor [documentation](https://netflix.github.io/conductor/)
+Detailed instructions for each SDK can be found in their respective README files.
