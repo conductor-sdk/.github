@@ -1,6 +1,4 @@
-![sdklogo](https://user-images.githubusercontent.com/1514288/160131357-d5bfa184-55e8-440f-83ed-df9d4ec89e6f.png)
-
-Welcome to Conductor SDKs Home.
+# Welcome to Conductor OSS SDKs Home.
 
 This repository is the home of offical supported SDKs for [Netflix Conductor](https://github.com/Netflix/conductor)
 
